@@ -1,6 +1,6 @@
 # loginFlare
 
-A new Flutter project.
+Using rive animation I've created this beautiful login page.
 
 ## Getting Started
 
